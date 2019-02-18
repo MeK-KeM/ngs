@@ -1,7 +1,7 @@
-# NGS boilerplate template for WordPress
-*Created date:* 18.02.2019
+# NGS boilerplate шаблон для WordPress
+*Дата:* 18.02.2019
 
-**Files:**
+**Файлы:**
 - css/add.css
 - js/main.js
 - bs4navwalker.php
