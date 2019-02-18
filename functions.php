@@ -21,10 +21,8 @@ register_nav_menus( array(
 
 /* 4. Styles and scripts */
 function theme_scripts() {
-  wp_enqueue_style( 'main-css', CSS . '/theme-style.css' );
   wp_enqueue_style( 'add-css', CSS . '/add.css' );
 
-  wp_enqueue_script( 'bootstrap', JS . '/bootstrap.min.js', array('jquery'), null, true );
   wp_enqueue_script( 'scripts', JS . '/main.js', array('jquery'), null, true );
 }
 add_action( 'wp_enqueue_scripts', 'theme_scripts' );
