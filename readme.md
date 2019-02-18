@@ -1,5 +1,7 @@
 # NGS boilerplate template for WordPress 
 ** Files: **
+- css/add.css
+- js/main.js
 - bs4navwalker.php
 - footer.php
 - functions.php
