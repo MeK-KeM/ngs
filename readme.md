@@ -1,5 +1,7 @@
-# NGS boilerplate template for WordPress 
-** Files: **
+# NGS boilerplate template for WordPress
+*Created date:* 18.02.2019
+
+**Files:**
 - css/add.css
 - js/main.js
 - bs4navwalker.php
@@ -7,8 +9,5 @@
 - functions.php
 - header.php
 - index.php
-- screenshot.png
+- screenshot.png ( 880x660 )
 - style.css
-
-Created date:
-*18.02.19*
