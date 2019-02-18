@@ -4,6 +4,7 @@
 **Файлы:**
 - css/add.css
 - js/main.js
+- 404.php
 - bs4navwalker.php
 - footer.php
 - functions.php
